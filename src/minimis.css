@@ -1,0 +1,70 @@
+/*! minimis.css | MIT License | github.com/kamaln7/minimis.css */
+
+body {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem 0.75rem;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,ubuntu,roboto,noto,arial,sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    color: #111;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #0000FF;
+}
+
+h1 {
+    margin-top: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    margin-bottom: 0.875rem;
+}
+
+h3 {
+    margin-top: 0.875rem;
+    margin-bottom: 0.75rem;
+}
+
+h4 {
+    margin-top: 0.875rem;
+    margin-bottom: 0.75rem;
+}
+
+h5 {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+h6 {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+pre {
+    background: #f7f8fa;
+    padding: 0.5rem;
+}
+
+pre > code {
+    white-space: pre-wrap;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: rgb(199, 199, 199);
+}
